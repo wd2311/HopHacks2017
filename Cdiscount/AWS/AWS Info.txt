@@ -1,0 +1,10 @@
+HopHacks2017-2
+Instance ID:         i-0cb5ac16ebdad2576
+Public DNS (IPv4):   ec2-13-59-26-219.us-east-2.compute.amazonaws.com
+Private Key Path:    C:\Users\wd231\Desktop\programmingStuff\python\Kaggle\Fashion_MNIST\AWS
+
+$ kg download -u 'wdavid2@jhu.edu' -p '0n1yf0rm3n0tu22' --competition 'cdiscount-image-classification-challenge'
+$ kg download -u `username` -p `password` -c `competition` -f `train.zip`
+
+
+pscp -r -i programmingStuff\python\Kaggle\Cdiscount\AWS\**key** programmingStuff\python\Kaggle\Cdiscount\ ubuntu@ec2-18-221-115-19.us-east-2.compute.amazonaws.com:Cdiscount/

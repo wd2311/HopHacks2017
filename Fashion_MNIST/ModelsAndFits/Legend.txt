@@ -1,0 +1,15 @@
+----**Model_Number**----
+**Model_Number**-**Fit_Number**) **Epoch/BatchSize Progression**
+
+**SWITCHED to PYTHON CODE Descriptions**
+
+----1----
+1-1) i in range(0, 5, 1)   : i+1 : 20*2^(i) : 1@20 ->2@40 ->3@80->4@160->5@320
+1-2) i in range(4, -1, -1) : i+1 : 20*2^(i) : 5@320->4@160->3@80->2@40 ->1@20
+
+----2----
+2-1) i in range(0, 1, (1/10)) : 1 : (T/C)*(T/[C*10])^t : Exponential increase-y
+
+2-2) 
+
+

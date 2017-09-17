@@ -1,0 +1,18 @@
+Stage: 0
+  BatchSize: 97
+  Epochs   : 20
+Stage: 1
+  BatchSize: 64
+  Epochs   : 13
+Stage: 2
+  BatchSize: 42
+  Epochs   : 8
+Stage: 3
+  BatchSize: 28
+  Epochs   : 5
+Stage: 4
+  BatchSize: 18
+  Epochs   : 3
+Stage: 5
+  BatchSize: 12
+  Epochs   : 2
