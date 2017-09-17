@@ -1,3 +1,10 @@
+Hey, we met at HopHacks2017 - I played around with methods to train and model convolutional neural networks, 
+with an application to the Fashion MNIST set, and an application to the Kaggle 
+cdiscounts-image-classification-challenge, but would need a stronger computer than AWS could provide, or more time
+to write a smarter method of parsing data...
+
+-----
+
 Welp, I went to sleep a few hours after the tensorflow workshop, coded for 33 hours, tried to take a 2 hour nap before
 presentations, and woke up after presentations were over.
 
