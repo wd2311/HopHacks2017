@@ -14,4 +14,4 @@ I learned that Neural Nets are a bad thing for hackathons - YOU HAVE TO TRAIN TH
 But, I learned a lot through experimenting with ways to train - my notes files are interesting.
 
 Also - my partners ditched me quite early on and only assisted by writing a broken data parsing script,
-but what can you do. Much was learned, much more to learn.
+but what can you do. Much was learned, much more to learn, but first I should probably do my homework...
