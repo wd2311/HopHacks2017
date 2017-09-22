@@ -10,7 +10,7 @@ cdiscounts-image-classification-challenge.
 Welp, I went to sleep a few hours after the tensorflow workshop, coded for ~25 hours, tried to take a 2 hour nap before
 presentations, and woke up after presentations were over.
 
-I started with a copy-pasted python script of a simple neural net to solve the Digit Recognizer MNIST data set,
+I started with an essentially copy-pasted python script of a simple neural net to solve the Digit Recognizer MNIST data set,
 having never written a program in python before, and this is where I ended.
 
 I learned that Neural Nets are a bad thing for hackathons - YOU HAVE TO TRAIN THEM (Lol).
